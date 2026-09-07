@@ -1,0 +1,8 @@
+# Place Copilot conversation screenshots here.
+#
+# Required screenshots (with descriptive filenames):
+#   - initial_tests.png              — pytest setup passing
+#   - copilot_unique_solution.png    — unique solution validation
+#   - copilot_leaderboard.png        — top 10 localStorage
+#   - copilot_grid_styling.png       — alternating 3x3 block colors
+#   - copilot_reject_suggestion.png  — example of rejecting a Copilot suggestion
